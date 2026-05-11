@@ -1,2 +1,2 @@
-# hello
-my first episode on Git
+# nome: Marcos Vinicius
+# curso: ciencias contabeis
